@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+body {
+    font-family: "Roboto", sans-serif;
+
+}
+
+#counter-div {
+    background-color: #F3EDC8;
+    border-radius: 20px;
+    width: 30%;
+    margin: auto;
+    margin-top: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 40px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+h1 {
+    color: #FFA447;
+}
+
+#span {
+    color: #F28585;
+}
+
+button {
+    padding: 20px;
+    font-size: 20px;
+    font-weight: 600;
+    border: 0;
+    border-radius: 20px;
+    color: white;
+}
+
+#increment {
+    background-color: #65B741;
+}
+
+#decrement {
+    background-color: #FF004D;
+    margin-left: 30px;
+}
+
+
